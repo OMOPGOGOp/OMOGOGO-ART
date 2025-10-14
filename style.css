@@ -11,3 +11,20 @@ p {
 
 }
 
+.undrcon {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  display:block;
+  width: 670px;
+  top: 505;
+  left: 50%;
+  transform:translate(-50,-50);
+  overflow:hidden;
+  
+
+
+}
+
+
+
