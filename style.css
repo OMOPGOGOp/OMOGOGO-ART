@@ -61,3 +61,12 @@ p {
     transform: translate(-100,0)
   }
 }
+
+.gallery23{
+  display: inline-block;
+  border: 1px solid grey
+  margin = 5px;
+
+
+}
+
